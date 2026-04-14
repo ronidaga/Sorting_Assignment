@@ -1,4 +1,4 @@
-##README FILE
+#README FILE
 
 Student name: Roni Dagan
 The algorithms that I select is Insertion Sort, Merge Sort and Quick Sort
