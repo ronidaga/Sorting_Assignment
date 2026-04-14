@@ -17,7 +17,7 @@ the result are similar to theoretical complexity plots:
   so the running time remain very fast even for larger arrays. time complexity = O(n log n).
 - Quick Sort has also time complexity of O(nlog(n)), remain very fast even for larger arrays.
 
-#average running times (array size = 10,000)
+#average running times (array size = 10,000):
 Insertion Sort = 2.240 sec
 merge sort = 0.018 sec
 Quick Sort = 0.018 sec
@@ -31,7 +31,7 @@ the result are again consistent with theoretical expectations:
 - Insertion Sort running time is significantly faster compared to the random arrays case for all size of the array.
 - Merge Sort and Quick Sort stay with the same time, Quick Sort has a little improvement now when the array Nearly Sorted
 
-#average running times (array size = 10,000)
+#average running times (array size = 10,000):
 Insertion Sort = 0.276 sec
 merge sort = 0.019 sec
 Quick Sort = 0.011 sec
