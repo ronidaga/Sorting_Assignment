@@ -8,7 +8,7 @@ The experiment was executed using the following command:
 python run_experiments.py -a 3 4 5 -s 100 500 1000 3000 5000 10000 -e 1 -r 10
 (nearly sorted with 5% noise, and 10 repetitions on each array size)
 
-Insertion SORT have O(N^2) runtime, which means they become extremely slow for large input sizes.
+Insertion Sort have O(n²) runtime, which means they become extremely slow for large input sizes.
 This is why i chose smaller input sizes where it finishes in reasonable time,
 and I compare it to the faster algorithms on that shared range.
 
